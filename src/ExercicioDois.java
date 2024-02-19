@@ -17,7 +17,7 @@ public class ExercicioDois {
 		areaCirculo = (float) (pi * Math.pow(raioCirculo, 2));
 
 		//Output
-		System.out.printf("A = %.4f",areaCirculo);
+		System.out.printf("A = %.4f", areaCirculo);
 
 	}
 }
