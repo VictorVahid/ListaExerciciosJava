@@ -14,11 +14,6 @@ public class Main {
 		int soma = numeroUm + numeroDois;
 
 		System.out.printf("A soma é : %d", soma);
-
-		//Exercicio 2
-
-
-
 		scanner.close();
 	}
 }
