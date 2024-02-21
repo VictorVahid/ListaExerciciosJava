@@ -12,7 +12,6 @@ public class ExercicioDois {
 		System.out.println("Digite o raio do circulo: ");
 		raioCirculo = sc.nextFloat();
 
-
 		//Calculo
 		areaCirculo = (float) (pi * Math.pow(raioCirculo, 2));
 
