@@ -19,7 +19,6 @@ public class ExercicioQuatro {
 		SalarioFinal = (horasTrabalhadas * SalarioHora);
 
 
-
 		//Saida de Dados
 		System.out.printf("Number: %d %n", id);
 		System.out.printf("Salary: U$ %.2f", SalarioFinal);
