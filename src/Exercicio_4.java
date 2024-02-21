@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExercicioQuatro {
+public class Exercicio_4 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		//Variaveis
