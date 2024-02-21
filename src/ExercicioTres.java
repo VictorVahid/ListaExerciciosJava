@@ -19,6 +19,7 @@ public class ExercicioTres {
 		NumeroD = sc.nextInt();
 		//Calculos
 
+
 		Resultado = (NumeroA * NumeroB) - (NumeroC * NumeroD);
 
 		//Saida
