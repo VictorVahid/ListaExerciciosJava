@@ -18,6 +18,6 @@ public class ExercicioDois {
 
 		//Output
 		System.out.printf("A = %.4f", areaCirculo);
-
+		sc.close();
 	}
 }
