@@ -7,6 +7,7 @@ public class ExercicioUm {
 		//Variaveis
 		int numeroUm = 0, numeroDois = 0;
 
+
 		//Entrada de Dados
 		System.out.println("Digite um número: ");
 		numeroUm = scanner.nextInt();
