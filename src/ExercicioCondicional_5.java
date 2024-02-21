@@ -37,6 +37,8 @@ public class ExercicioCondicional_5 {
 			TotalPagar = Quantidade * 1.50;
 		}
 		System.out.printf("Total: R$ %.2f", TotalPagar);
+
+		sc.close();
 	}
 }
 
