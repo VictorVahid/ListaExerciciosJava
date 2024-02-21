@@ -22,6 +22,7 @@ public class ExercicioCinco {
 		System.out.println("Valor da peça (Unitário): ");
 		Valor_peca2 = sc.nextFloat();
 
+
 		//Calculos
 		Total = (Quantidade_peca1 * Valor_peca1) + (Quantidade_peca2 * Valor_peca2);
 
