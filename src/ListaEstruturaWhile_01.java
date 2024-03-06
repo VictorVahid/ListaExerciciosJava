@@ -3,14 +3,13 @@ import java.util.Scanner;
 public class ListaEstruturaWhile_01 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		int X = sc.nextInt();
 
-		int password = sc.nextInt();
-
-		while (password != 2002) {
-			System.out.println("Senha Invalida");
-			password = sc.nextInt();
+		for (int i = 1; i <= X; i++) {
+			if (i % 2 != 0) {
+				System.out.println(i);
+			}
 		}
-		System.out.println("Acesso Permitido!");
 
 		sc.close();
 	}
