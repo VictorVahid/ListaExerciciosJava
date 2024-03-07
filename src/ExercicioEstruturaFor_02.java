@@ -5,20 +5,17 @@ public class ExercicioEstruturaFor_02 {
 		Scanner sc = new Scanner(System.in);
 
 		int N = sc.nextInt();
-
-		int in = 0;
-		int out = 0;
+		int Out = 0;
+		int In = 0;
 
 		for (int i = 0; i < N; i++) {
 			int x = sc.nextInt();
 			if (x >= 10 && x <= 20) {
-				in += 1;
-			} else {
-				out += 1;
-			}
+				In += 1;
+			} else Out += 1;
 		}
-		System.out.println("In " + in);
-		System.out.println("Out " + out);
+		System.out.println("IN: " + In);
+		System.out.println("Out: " + Out);
 		sc.close();
 	}
 }
