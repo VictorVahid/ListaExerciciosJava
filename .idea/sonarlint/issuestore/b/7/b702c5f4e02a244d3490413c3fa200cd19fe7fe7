@@ -1,0 +1,30 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İœ¾¸
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İœ¾¸
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İœ¾¸
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İœ¾¸
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¢¡Ö
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¢¡Ö
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¢¡Ö
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„Úà
+0
+java:S1220""Move this file to a named package.
+S
+java:S1854"8Remove this useless assignment to local variable "Id_2".(Î´½ìşÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "Id_1".(À×å‘
+c
+java:S1659"MDeclare "Quantidade_peca1" and all following declarations on a separate line.(İœ¾¸
+^
+java:S1659"HDeclare "Valor_peca2" and all following declarations on a separate line.(ï¢¡Ö
+?
+java:S1481")Remove this unused "Id_1" local variable.(İœ¾¸
+?
+java:S1481")Remove this unused "Id_2" local variable.(İœ¾¸
+@	java:S106"+Replace this use of System.out by a logger.(·äıÂ
+@	java:S106"+Replace this use of System.out by a logger.(ëÁÚ
+E	java:S106"+Replace this use of System.out by a logger.(íÇ×ıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(·äıÂ
+@	java:S106"+Replace this use of System.out by a logger.(ëÁÚ
+E	java:S106"+Replace this use of System.out by a logger.(íÇ×ıÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.( Ÿ
