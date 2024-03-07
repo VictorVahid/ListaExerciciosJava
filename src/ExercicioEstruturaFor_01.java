@@ -6,11 +6,12 @@ public class ExercicioEstruturaFor_01 {
 
 		int x = sc.nextInt();
 
-		for (int i=1; i<=x; i++){
-			if(i % 2!=0){
+		for (int i = 1; i < x; i++) {
+			if (i % 2 != 0) {
 				System.out.println(i);
 			}
 		}
+
 		sc.close();
 	}
 }
