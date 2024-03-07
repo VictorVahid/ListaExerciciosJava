@@ -3,18 +3,21 @@ import java.util.Scanner;
 public class ExercicioEstruturaFor_04 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		System.out.println("DIGITE QUANTAS CONTAS SERÃO FEITAS: ");
+		int n = sc.nextInt();
+		double resultado = 0;
 
-		int N = sc.nextInt();
-
-		for (int i = 0; i < N; i++) {
-			float a = sc.nextFloat();
-			float b = sc.nextFloat();
+		for (int i = 0; i < n; i++) {
+			System.out.println("Digite o primeiro número: ");
+			int a = sc.nextInt();
+			System.out.println("Digite o segundo número: ");
+			int b = sc.nextInt();
 
 			if (b == 0) {
-				System.out.println("Divisão impossivel");
+				System.out.println("divisao impossivel");
 			} else {
-				float resultado = a / b;
-				System.out.println(resultado);
+				resultado = ((double) a / b);
+				System.out.println("Resultado: " + resultado);
 			}
 		}
 
