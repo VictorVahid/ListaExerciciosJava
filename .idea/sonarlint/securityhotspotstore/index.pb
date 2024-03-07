@@ -68,3 +68,5 @@ Q.idea/sonarlint/securityhotspotstore/3/5/35cb0ab64ef13bc519803e2fd3b0bfc9bd9320
 Q.idea/sonarlint/securityhotspotstore/6/c/6cf2b9a1c5f05b388a3dd003c614343854666b6c,c\7\c7f817f412ade6f33bdc5023817996ec2e2d7fdf
 Å
 Q.idea/sonarlint/securityhotspotstore/b/0/b0021afa2224f495c9803bc51ac9c0f55c969571,2\6\26d747c2486c9f095104b5a7d5d90f790a90a125
+O
+src/ExercicioCondicional_5.java,5\8\58fc2b65498aa571eec561a6270f30ad564f3d11

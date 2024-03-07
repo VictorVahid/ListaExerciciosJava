@@ -144,3 +144,5 @@ w
 G.idea/sonarlint/issuestore/f/9/f9009389b61ceb67c196d97162a0712e04069939,c\5\c59c670014b93e74730ee5da2dfd98ad1c670f40
 w
 G.idea/sonarlint/issuestore/4/e/4e0fae3b37d78505d2cc7ec5107f0f30ec6ddb3f,d\6\d6892cdb13bec4b3f0381e61b63c0ff0113bdb7a
+O
+src/ExercicioCondicional_5.java,5\8\58fc2b65498aa571eec561a6270f30ad564f3d11

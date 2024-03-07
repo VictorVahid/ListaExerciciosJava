@@ -1,0 +1,27 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃåŸè
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃåŸè
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä…ˆ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘ƒÄÓ
+0
+java:S1220""Move this file to a named package.
+^
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(Ÿîè
+c
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(“Õ¢İúÿÿÿÿ
+c
+java:S2184!"HCast one of the operands of this multiplication operation to a "double".(Ú»Şïûÿÿÿÿ
+>
+java:S1659"(Declare "Quantidade" on a separate line.(ÃåŸè
+@	java:S106
+"+Replace this use of System.out by a logger.(Ñàùî
+@	java:S106"+Replace this use of System.out by a logger.(Šö„“
+E	java:S106"+Replace this use of System.out by a logger.(ì«¸îÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ò…¶¨ıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¥€ß‹
+E	java:S106"+Replace this use of System.out by a logger.(Å¹¦óùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Î†¬”ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Òã–ëşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ã‰¼€
+@	java:S106#"+Replace this use of System.out by a logger.(ÈÙ¥µ
+@	java:S106'"+Replace this use of System.out by a logger.(Á—ù

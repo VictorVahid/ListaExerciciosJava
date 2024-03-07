@@ -1,4 +1,6 @@
 
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÜÈ–óøÿÿÿÿ
-7
-java:S1220""Move this file to a named package.8Ê°ïÓá1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁü8æ’ïÕá1
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÜÈ–óøÿÿÿÿ8‚œßÕá1J$b4bfe3b1-9fd7-4396-9188-2535ba073aaf
+]
+java:S1220""Move this file to a named package.8‚œßÕá1J$da5b51d0-64ff-415e-aebd-05adb5eed33e
+L	java:S106"+Replace this use of System.out by a logger.(ĞÌõ«ûÿÿÿÿ8ô’ïÕá1
